@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator2</string>
+    <string name="result">wynik</string>
+    <string name="err_digit_length">Przekroczono wielkość liczby!</string>
+    <string name="err_devide_zero">Nie można dzielić przez zero!</string>
+    <string name="negative_number">Liczba musi być nieujemna!</string>
+    <string name="app_name_calc">Calculator</string>
+    <string name="about_desc">About</string>
+    <string name="exit_desc">Exit</string>
+    <string name="single_desc">Single</string>
+    <string name="short_info">Simple And Advanced Calculator</string>
+    <string name="auhor">Mikołaj Bogutczak 202122</string>
+</resources>
